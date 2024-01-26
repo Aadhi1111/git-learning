@@ -1,2 +1,8 @@
-hi!hello programming of the guvi.
-this is day 03
+Event:Event are used to perform some specific task.
+Ex:typing,clicking,scrolling,zoomin,zoomout
+To perform above operations,we need Functions:
+
+Functions helps us to perform some specific task.
+Function helps us to reduce the code length.
+
+Whenever there is an event, there will be definitely functions.
